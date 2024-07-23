@@ -8,6 +8,11 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/janafisher2331/py_mach/HEAD
 
+## Author Credit
+
+I would like to credit the author, Jason Brownlee, for his tutorial on "Your First Machine Learning Project in Python Step-By-Step" which can be found at the following URL:
+
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
